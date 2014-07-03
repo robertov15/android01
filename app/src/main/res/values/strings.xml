@@ -8,11 +8,11 @@
     <string name="user">Usuario:</string>
     <string name="pass">Contraseña:</string>
     <string name="iniciar">Iniciar Sesion</string>
-    <string name="titulo_venta">Venta</string>
+    <string name="titulo_venta">Detalles de la Venta</string>
     <string name="nueva_venta">Nueva Venta</string>
     <string name="productos">Productos</string>
     <string name="opciones">Opciones</string>
-    <string name="pagos">Pagos</string>
+    <string name="pagos">Pagos:</string>
     <string name="total_venta">Total:</string>
     <string name="subtotal_venta">Sub-Total:</string>
     <string name="iva_venta">IVA:</string>
@@ -21,5 +21,8 @@
     <string name="cantidad_venta">Cantidad:</string>
     <string name="importe_venta">Importe:</string>
     <string name="id_venta">ID:</string>
+    <string name="title_activity_venta_detalles">Venta</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 
 </resources>
