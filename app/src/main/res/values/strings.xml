@@ -17,5 +17,9 @@
     <string name="subtotal_venta">Sub-Total:</string>
     <string name="iva_venta">IVA:</string>
     <string name="pago_venta">Pago:</string>
+    <string name="descripcion_venta">Descripcion:</string>
+    <string name="cantidad_venta">Cantidad:</string>
+    <string name="importe_venta">Importe:</string>
+    <string name="id_venta">ID:</string>
 
 </resources>
