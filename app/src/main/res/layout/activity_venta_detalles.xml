@@ -185,8 +185,7 @@
                 android:orientation="vertical"
                 android:layout_width="275dp"
                 android:layout_height="fill_parent"
-                android:layout_margin="10dp"
-                android:id="@+id/">
+                android:layout_margin="10dp">
 
                 <TextView
                     android:layout_width="match_parent"
