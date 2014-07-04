@@ -39,5 +39,8 @@
     <string name="opciones_desc_factura">Generar la Factura correspondiente a la venta actual</string>
     <string name="opciones_boton_cancelar">Cancelar Venta</string>
     <string name="opciones_desc_cancelar">Cancelar la Venta actual</string>
+    <string name="title_activity_opciones">Opciones</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_agregar_cliente">Agregar Cliente</string>
 
 </resources>

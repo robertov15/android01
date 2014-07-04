@@ -15,7 +15,17 @@
         </activity>
         <activity
             android:name=".formasPago"
-            android:label="@string/title_activity_formas_pago" >
+            android:label="@string/title_activity_formas_pago"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".Opciones"
+            android:label="@string/title_activity_opciones"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".AgregarCliente"
+            android:label="@string/title_activity_agregar_cliente" >
         </activity>
     </application>
 
