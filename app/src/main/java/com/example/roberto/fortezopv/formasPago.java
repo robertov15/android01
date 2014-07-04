@@ -4,10 +4,11 @@ import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 
 import com.example.roberto.fortezopv.R;
 
-public class formasPago extends ActionBarActivity {
+class formasPago extends ActionBarActivity implements View.OnClickListener{
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -33,5 +34,10 @@ public class formasPago extends ActionBarActivity {
             return true;
         }
         return super.onOptionsItemSelected(item);
+    }
+
+    @Override
+    public void onClick(View view) {
+
     }
 }
