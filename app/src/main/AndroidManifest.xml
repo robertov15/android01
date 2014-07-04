@@ -25,7 +25,13 @@
         </activity>
         <activity
             android:name=".AgregarCliente"
-            android:label="@string/title_activity_agregar_cliente" >
+            android:label="@string/title_activity_agregar_cliente"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name=".NuevoCliente"
+            android:label="@string/title_activity_nuevo_cliente"
+            android:theme="@style/AppTheme" >
         </activity>
     </application>
 

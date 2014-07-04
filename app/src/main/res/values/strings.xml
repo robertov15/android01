@@ -40,7 +40,27 @@
     <string name="opciones_boton_cancelar">Cancelar Venta</string>
     <string name="opciones_desc_cancelar">Cancelar la Venta actual</string>
     <string name="title_activity_opciones">Opciones</string>
-    <string name="hello_world">Hello world!</string>
     <string name="title_activity_agregar_cliente">Agregar Cliente</string>
+    <string name="cliente_titulo">Nombre del Cliente</string>
+    <string name="cliente_boton_agregar">Agregar Cliente</string>
+    <string name="cliente_boton_crear">Crear Nuevo Cliente</string>
+    <string name="title_activity_nuevo_cliente">Crear Nuevo Cliente</string>
+    <string name="clientenuevo_titulo">Alta de Cliente Nuevo</string>
+    <string name="clientenuevo_tab_1">Datos Generales</string>
+    <string name="clientenuevo_boton_agregar">Agregar Cliente</string>
+    <string name="clientenuevo_nombre">Nombres (s)</string>
+    <string name="clientenuevo_apellido">Apellido (s)</string>
+    <string name="clientenuevo_telefono">No. Teléfono</string>
+    <string name="clientenuevo_celuluar">No. Celular</string>
+    <string name="clientenuevo_correo">e-Mail</string>
+    <string name="clientenuevo_direccion">Dirección</string>
+    <string name="clientenuevo_ciudad">Ciudad</string>
+    <string name="clientenuevo_estado">Estado</string>
+    <string name="clientenuevo_pais">País</string>
+
+    <string name="clientenuevo_tab_2">Datos Fiscales</string>
+    <string name="c"></string>
+    <string name="clientenuevo_rfc">RFC</string>
+    <string name="clientenuevo_curp">CURP</string>
 
 </resources>
