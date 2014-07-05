@@ -51,15 +51,20 @@
     <string name="clientenuevo_nombre">Nombres (s)</string>
     <string name="clientenuevo_apellido">Apellido (s)</string>
     <string name="clientenuevo_telefono">No. Teléfono</string>
-    <string name="clientenuevo_celuluar">No. Celular</string>
+    <string name="clientenuevo_celular">No. Celular</string>
     <string name="clientenuevo_correo">e-Mail</string>
     <string name="clientenuevo_direccion">Dirección</string>
     <string name="clientenuevo_ciudad">Ciudad</string>
     <string name="clientenuevo_estado">Estado</string>
     <string name="clientenuevo_pais">País</string>
-
     <string name="clientenuevo_tab_2">Datos Fiscales</string>
-    <string name="c"></string>
+    <string name="clientenuevo_cp">Código Postal</string>
+    <string name="clientenuevo_municipio">Municipio</string>
+    <string name="clientenuevo_colonia">Colonia</string>
+    <string name="clientenuevo_localidad">Localidad</string>
+    <string name="clientenuevo_vendedor">Vendedor</string>
+    <string name="clientenuevo_regimen">Regimen Fiscal</string>
+    <string name="clientenuevo_razon">Razón Social</string>
     <string name="clientenuevo_rfc">RFC</string>
     <string name="clientenuevo_curp">CURP</string>
 
