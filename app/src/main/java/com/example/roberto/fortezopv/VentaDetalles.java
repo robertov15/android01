@@ -1,14 +1,11 @@
 package com.example.roberto.fortezopv;
 
-import android.annotation.TargetApi;
 import android.app.Activity;
-import android.os.Build;
 import android.os.Bundle;
 import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 
-import com.example.roberto.fortezopv.R;
 import com.example.roberto.fortezopv.util.SystemUiHider;
 
 /**
@@ -52,7 +49,7 @@ public class VentaDetalles extends Activity {
 
         setContentView(R.layout.activity_venta_detalles);
 
-        final View controlsView = findViewById(R.id.fullscreen_content_controls);
+       /* final View controlsView = findViewById(R.id.fullscreen_content_controls);
         final View contentView = findViewById(R.id.fullscreen_content);
 
         // Set up an instance of SystemUiHider to control the system UI for
@@ -107,12 +104,7 @@ public class VentaDetalles extends Activity {
                     mSystemUiHider.show();
                 }
             }
-        });
-
-        // Upon interacting with UI controls, delay any scheduled hide()
-        // operations to prevent the jarring behavior of controls going away
-        // while interacting with the UI.
-        findViewById(R.id.dummy_button).setOnTouchListener(mDelayHideTouchListener);
+        });*/
     }
 
     @Override
